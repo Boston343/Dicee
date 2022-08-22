@@ -1,5 +1,5 @@
 # Dicee
-Dicee Challenge with javascript DOM manipulation
+Dicee Challenge with javascript DOM manipulation. This simulates dice tossing where the highest number wins. Whenever the page is refreshed, two dice are "rolled" (random numbers generated) and displayed. The values are also compared to see which player would win the dice toss. 
 
 ## Screenshots
 ![image](https://user-images.githubusercontent.com/96832297/185828733-de903680-4ac9-4ec9-b3a2-921469570796.png)
